@@ -6,18 +6,21 @@ Personal writeups and notes from working through TryHackMe, organised by categor
 
 | Room | Category | Difficulty | Key skill | Writeup |
 |---|---|---|---|---|
-| Beach Bar | Web Exploitation | Easy | YAML deserialisation, insecure credential exposure | [link](Web%20Exploitation/beach-bar) |
+| Beach Bar | Web Exploitation | Easy | YAML deserialisation, insecure credential exposure | [link](Web%20Exploitation/beach-bar.md) |
+| Complimentary | Web Exploitation | _fill in_ | _fill in_ | [link](Web%20Exploitation/complimentary.md) |
+| Packed Light | Web Exploitation | _fill in_ | _fill in_ | [link](Web%20Exploitation/packed-light.md) |
+| Room 404 | Web Exploitation | _fill in_ | _fill in_ | [link](Web%20Exploitation/room-404.md) |
 
 ## Learning path notes
 
 Notes from the free TryHackMe learning path, covering the fundamentals:
 
-- [Start Your Cyber Security Journey](Learning%20Notes/start-your-cyber-security-journey.md)
-- [Linux Fundamentals](Learning%20Notes/linux-fundamentals.md)
-- [Windows and AD Fundamentals](Learning%20Notes/windows-and-ad-fundamentals.md)
-- [Command Line](Learning%20Notes/command-line.md)
-- [Networking](Learning%20Notes/networking.md)
-- [Cryptography](Learning%20Notes/cryptography.md)
+- [Start Your Cyber Security Journey](Learning%20Notes/01-Start.md)
+- [Linux Fundamentals](Learning%20Notes/02-linux-fundamentals.md)
+- [Windows Fundamentals](Learning%20Notes/03-windows-fundamentals.md)
+- [Command Line](Learning%20Notes/04-command-line.md)
+- [Networking](Learning%20Notes/05-networking.md)
+- [Cryptography](Learning%20Notes/06-cryptography.md)
 
 ## About
 
