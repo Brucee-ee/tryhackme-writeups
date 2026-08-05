@@ -7,9 +7,9 @@ Personal writeups and notes from working through TryHackMe, organised by categor
 | Room | Category | Difficulty | Key skill | Writeup |
 |---|---|---|---|---|
 | Beach Bar | Web Exploitation | Easy | YAML deserialisation, insecure credential exposure | [link](Web%20Exploitation/beach-bar.md) |
-| Complimentary | Web Exploitation | _fill in_ | _fill in_ | [link](Web%20Exploitation/complimentary.md) |
-| Packed Light | Web Exploitation | _fill in_ | _fill in_ | [link](Web%20Exploitation/packed-light.md) |
-| Room 404 | Web Exploitation | _fill in_ | _fill in_ | [link](Web%20Exploitation/room-404.md) |
+| Room 404 | Web Exploitation | Very Easy | Exposed .git directory, source reconstruction | [link](Web%20Exploitation/room-404.md) |
+| Complimentary | Cloud (AWS/IAM) | Easy | Over-privileged Cognito unauthenticated role, IAM misconfig | [link](Cloud/complimentary.md) |
+| Packed Light | Network Forensics | Easy | PCAP analysis | [link](Network%20Forensics/packed-light.md) |
 
 ## Learning path notes
 
