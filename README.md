@@ -21,6 +21,7 @@ Notes from the free TryHackMe learning path, covering the fundamentals:
 - [Command Line](Learning%20Notes/04-command-line.md)
 - [Networking](Learning%20Notes/05-networking.md)
 - [Cryptography](Learning%20Notes/06-cryptography.md)
+- [Pre Security Fundamentals](Learning%20Notes/07-pre-security-fundamentals.md)
 
 ## About
 
