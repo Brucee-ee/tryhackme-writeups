@@ -10,6 +10,7 @@ Personal writeups and notes from working through TryHackMe, organised by categor
 | Room 404 | Web Exploitation | Very Easy | Exposed .git directory, source reconstruction | [link](Web%20Exploitation/room-404.md) |
 | Complimentary | Cloud (AWS/IAM) | Easy | Over-privileged Cognito unauthenticated role, IAM misconfig | [link](Cloud/complimentary.md) |
 | Packed Light | Network Forensics | Easy | PCAP analysis | [link](Network%20Forensics/packed-light.md) |
+| Do Not Disturb | Web Exploitation | Medium | NoSQL injection, SSTI, Node inspector privesc | [link](./do-not-disturb-writeup.md) |
 
 ## Learning path notes
 
