@@ -12,6 +12,7 @@ Personal writeups and notes from working through TryHackMe, organised by categor
 | Packed Light | Network Forensics | Easy | PCAP analysis | [link](Network%20Forensics/packed-light.md) |
 | Do Not Disturb | Web Exploitation | Medium | NoSQL injection, SSTI, Node inspector privesc | [link](./do-not-disturb-writeup.md) |
 | Towel on the Sunbed | Business Logic / API | Medium | Race condition (TOCTOU), reward-claim bypass | [link](./towel-on-the-sunbed-writeup.md) |
+| CryptoCabana | Cloud (Azure) | Medium | SAS token over-scoping, leaked service principal creds, Key Vault RBAC & secret versioning | [link](Cloud/cryptocabana.md) |
 
 ## Learning path notes
 
