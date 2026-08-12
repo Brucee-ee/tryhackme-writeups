@@ -14,6 +14,16 @@ Personal writeups and notes from working through TryHackMe, organised by categor
 | Towel on the Sunbed | Business Logic / API | Medium | Race condition (TOCTOU), reward-claim bypass | [link](./towel-on-the-sunbed-writeup.md) |
 | CryptoCabana | Cloud (Azure) | Medium | SAS token over-scoping, leaked service principal creds, Key Vault RBAC & secret versioning | [link](Cloud/cryptocabana.md) |
 
+| Module | Topic | Status | Notes |
+|---|---|---|---|
+| [00-pre-security.md](00-pre-security.md) | Pre Security | Complete | Foundational concepts before diving into offensive/defensive security |
+| [01-Start.md](01-Start.md) | Getting Started | Complete | Intro / orientation notes |
+| [02-linux-fundamentals.md](02-linux-fundamentals.md) | Linux Fundamentals | Complete | Core Linux CLI, filesystem, permissions |
+| [03-windows-fundamentals.md](03-windows-fundamentals.md) | Windows Fundamentals | Complete | Core Windows concepts, registry, permissions |
+| [04-command-line.md](04-command-line.md) | Command Line | Complete | Shell usage and scripting basics |
+| [05-networking.md](05-networking.md) | Networking | Complete | TCP/IP, ports, protocols |
+| [06-cryptography.md](06-cryptography.md) | Cryptography | Complete | Encryption fundamentals, hashing, common ciphers |
+
 ## Learning path notes
 
 Notes from the free TryHackMe learning path, covering the fundamentals:
