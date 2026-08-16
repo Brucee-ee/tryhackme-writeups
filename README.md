@@ -2,18 +2,6 @@
 
 Personal writeups and notes from working through TryHackMe, organised by category. Written up in my own words as I go, not just answer dumps.
 
-## Rooms
-
-| Room | Category | Difficulty | Key skill | Writeup |
-|---|---|---|---|---|
-| Beach Bar | Web Exploitation | Easy | YAML deserialisation, insecure credential exposure | [link](Web%20Exploitation/beach-bar.md) |
-| Room 404 | Web Exploitation | Very Easy | Exposed .git directory, source reconstruction | [link](Web%20Exploitation/room-404.md) |
-| Complimentary | Cloud (AWS/IAM) | Easy | Over-privileged Cognito unauthenticated role, IAM misconfig | [link](Cloud/complimentary.md) |
-| Packed Light | Network Forensics | Easy | PCAP analysis | [link](Network%20Forensics/packed-light.md) |
-| Do Not Disturb | Web Exploitation | Medium | NoSQL injection, SSTI, Node inspector privesc | [link](./do-not-disturb-writeup.md) |
-| Towel on the Sunbed | Business Logic / API | Medium | Race condition (TOCTOU), reward-claim bypass | [link](./towel-on-the-sunbed-writeup.md) |
-| CryptoCabana | Cloud (Azure) | Medium | SAS token over-scoping, leaked service principal creds, Key Vault RBAC & secret versioning | [link](Cloud/cryptocabana.md) |
-
 | Module | Topic | Status | Notes |
 |---|---|---|---|
 | [00-pre-security.md](00-pre-security.md) | Pre Security | Complete | Foundational concepts before diving into offensive/defensive security |
@@ -41,3 +29,15 @@ Notes from the free TryHackMe learning path, covering the fundamentals:
 Computer Science student at Swansea University, specialising in machine learning for cybersecurity and defence. Working through TryHackMe as part of ongoing hands-on practice alongside coursework and certifications (ISC2 Associate).
 
 Flags in individual writeups are left visible only for retired/free rooms where TryHackMe's own terms allow it — check each room's terms before assuming the same applies elsewhere.
+
+## Rooms
+
+| Room | Category | Difficulty | Key skill | Writeup |
+|---|---|---|---|---|
+| Beach Bar | Web Exploitation | Easy | YAML deserialisation, insecure credential exposure | [link](Web%20Exploitation/beach-bar.md) |
+| Room 404 | Web Exploitation | Very Easy | Exposed .git directory, source reconstruction | [link](Web%20Exploitation/room-404.md) |
+| Complimentary | Cloud (AWS/IAM) | Easy | Over-privileged Cognito unauthenticated role, IAM misconfig | [link](Cloud/complimentary.md) |
+| Packed Light | Network Forensics | Easy | PCAP analysis | [link](Network%20Forensics/packed-light.md) |
+| Do Not Disturb | Web Exploitation | Medium | NoSQL injection, SSTI, Node inspector privesc | [link](./do-not-disturb-writeup.md) |
+| Towel on the Sunbed | Business Logic / API | Medium | Race condition (TOCTOU), reward-claim bypass | [link](./towel-on-the-sunbed-writeup.md) |
+| CryptoCabana | Cloud (Azure) | Medium | SAS token over-scoping, leaked service principal creds, Key Vault RBAC & secret versioning | [link](Cloud/cryptocabana.md) |
