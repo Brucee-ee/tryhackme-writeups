@@ -11,6 +11,12 @@ Personal writeups and notes from working through TryHackMe, organised by categor
 | [04-command-line.md](04-command-line.md) | Command Line | Complete | Shell usage and scripting basics |
 | [05-networking.md](05-networking.md) | Networking | Complete | TCP/IP, ports, protocols |
 | [06-cryptography.md](06-cryptography.md) | Cryptography | Complete | Encryption fundamentals, hashing, common ciphers |
+| [07-exploitation-basics.md](07-exploitation-basics.md) | Exploitation Basics | Complete | CVEs, Metasploit, EternalBlue |
+| [08-web-hacking.md](08-web-hacking.md) | Web Hacking | Complete | Web app basics, JavaScript, SQL, Burp Suite |
+| [09-offensive-tooling.md](09-offensive-tooling.md) | Offensive Security Tooling | Complete | Hydra, Gobuster, shells, SQLMap |
+| [10-defensive-security.md](10-defensive-security.md) | Defensive Security | Complete | SOC fundamentals, DFIR, incident response, logs |
+| [11-security-solutions.md](11-security-solutions.md) | Security Solutions | Complete | SIEM, firewalls, IDS, vulnerability scanners |
+| [12-defensive-tooling.md](12-defensive-tooling.md) | Defensive Security Tooling | Complete | CyberChef, CAPA, REMnux, FlareVM |
 
 ## Learning path notes
 
